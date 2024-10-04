@@ -1,5 +1,3 @@
-# DS.v2.5.3.1.5
-
 # Travel Insurance predictions
 
 A Tour & Travels company is offering a travel insurance package to their customers, which now includes Covid Cover. This insurance was offered to some customers in 2019, and the provided data has been extracted from the performance and sales of the package during that period.
